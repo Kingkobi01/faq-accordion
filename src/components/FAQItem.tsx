@@ -21,8 +21,8 @@ const FAQItem: FC<FAQItemProps> = ({ question }) => {
           <img
             src={
               showAnswer
-                ? "/assets/images/icon-minus.svg"
-                : "/assets/images/icon-plus.svg"
+                ? "./assets/images/icon-minus.svg"
+                : "./assets/images/icon-plus.svg"
             }
             alt=""
           />

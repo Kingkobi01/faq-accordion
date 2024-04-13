@@ -7,7 +7,7 @@ function App() {
       <section className="row-span-2">
         <div className="relative z-20 bg-white shadow-md mx-auto -mt-[6rem] mb-10 px-6 py-6 rounded-lg w-[90%] max-w-[720px]">
           <div className="flex items-center gap-6 mb-6 py-2 text-primary">
-            <img src="/assets/images/icon-star.svg" alt="a star" />
+            <img src="./assets/images/icon-star.svg" alt="a star" />
             <h1 className="font-bold text-6xl">FAQs</h1>
           </div>
           <FAQList />
